@@ -1,0 +1,14 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: "LiSong Pro Light", "FangSong", Arial, serif;
+
+}
+.main{
+    padding: 5px ;
+    border: 2px dashed green;
+    margin-left: 10px;
+    width: 1100px;
+    line-height: 1.6;
+    font-weight: 300;
+}
